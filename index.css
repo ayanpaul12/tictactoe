@@ -1,0 +1,138 @@
+body{
+    background-color: rgba(255, 195, 127, 0.247);
+  
+    border: 11px solid rgb(196, 90, 90);
+    position: relative;
+}
+.main {
+    text-align: center;
+    
+    
+}
+.img1{
+    display: inline-block;
+}
+h1{
+    font-family:'Lobster', cursive; ;
+     text-shadow: 2px 2px black;
+    font-size: 4rem;
+    color:rgb(167, 78, 66);
+}
+.first {
+    position: relative;
+    bottom: 198px;
+}
+.second{
+    position: relative;
+    bottom: 194px;
+
+
+
+}
+.third{
+    position: relative;
+    bottom: 194px;
+    
+}
+
+
+.th0 {
+
+    width: 74px;
+    margin-left: 2px;
+    height: 72px;
+    position: relative;
+    bottom: 28px;
+
+}
+
+.th2 {
+
+    width: 74px;
+    margin-left: 2px;
+    height: 72px;
+    position: relative;
+    /* background-image: url("images/o.png") ; */
+    bottom: 28px;
+
+}.Line{
+   display: inline-block;
+ 
+    visibility: hidden;
+    text-align: center;;
+}
+.ld1{
+    transform: rotate(45deg); 
+    position: relative;
+    display: flex;
+    z-index: 1;
+    background-position: relative;
+    bottom: 343px;
+}
+.ld2{
+    transform: rotate(-45deg);
+    position: relative;
+    display: flex;
+    /* left: 165px; */
+    bottom: 343px;
+
+}
+.ld3{
+    position: relative;
+    bottom: 432px;
+    left: 47px;
+    width: 230px;
+    display: flex;
+
+}
+.ld4{
+    position: relative;
+    bottom: 362px;
+    left: 47px;display: flex;
+    width: 230px;
+    
+}
+.ld5{
+    position: relative;
+    bottom: 292px;
+    left: 47px;display: flex;
+    width: 230px;
+}
+.ld6{
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 372px;
+    right: 25px;
+    display: flex;
+    width: 228px;
+}
+.ld7{
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 372px;
+    left: 54px;
+    display: flex;
+    width: 228px;
+}
+.ld8{
+    transform: rotate(90deg);
+    position: relative;
+    bottom: 379px;
+   left: 125px;
+    display: flex;
+    width: 228px;
+}
+
+.th1 {
+
+    width: 69px;
+    margin-left: 3px;
+    height: 72px;
+    position: relative;
+    bottom: 28px;
+}
+button{
+    border: none;
+    background-color: rgb(196, 90, 90);
+
+}
